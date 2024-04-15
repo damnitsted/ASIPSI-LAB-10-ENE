@@ -7,7 +7,7 @@ Continut
 - [Prezentare Powerpoint](ASIPSI%20PPT)
 - [Board Jira](https://tedluc.atlassian.net/jira/software/c/projects/IBAA/boards/2)
 
-Despre
+Despre:
 Proiect realizat pentru materia ASIPSI
 
 Autor: Ene Teodor-Lucian, Anul IV, grupa 1
