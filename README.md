@@ -1,7 +1,7 @@
 ASIPSI-ASIPSI-LAB-10-ENE
 Implementarea unei masini de scris in alfabetul Braille folosind Arduino
 
-Continut
+Conținut:
 - [Document de specificare a cerintelor](Documentul%20de%20specificare%20a%20cerințelor.docx)
 - [Document de specificatii de proiectare](Documentul%20de%20specificații%20de%20proiectare.docx)
 - [Prezentare Powerpoint](ASIPSI%20PPT.pptx)
